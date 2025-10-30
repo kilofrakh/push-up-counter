@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+db.sqlite3
+instance/
+*.egg-info/
+.env
+.venv/
+venv/
+.env.local
+.env.*.local
+
+# FastAPI DB
+pushup.db
+
+# Node
+node_modules/
+build/
+dist/
+frontend/node_modules/
+frontend/build/
+
+# General
+*.log
+.DS_Store
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# VSCode
+.vscode/
+
+# OS
+Thumbs.db
+ehthumbs.db
+Icon?
